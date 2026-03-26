@@ -1,0 +1,6 @@
+[submodule "LLM-Architecture-Explained"]
+	path = LLM-Architecture-Explained
+	url = https://github.com/LLM-Explained/LLM-Architecture-Explained.git
+[submodule "LLM-Infrastructure-Explained"]
+	path = LLM-Infrastructure-Explained
+	url = https://github.com/LLM-Explained/LLM-Infrastructure-Explained.git
