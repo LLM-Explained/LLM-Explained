@@ -4,4 +4,4 @@ version = "0.1.0"
 description = "Demos for LLM architecture and infrastructure explanations"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = ["torch"]
+dependencies = ["numpy", "torch"]
