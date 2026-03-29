@@ -4,3 +4,6 @@
 [submodule "LLM-Infrastructure-Explained"]
 	path = LLM-Infrastructure-Explained
 	url = https://github.com/LLM-Explained/LLM-Infrastructure-Explained.git
+[submodule "LLM-Algorithm-Explained"]
+	path = LLM-Algorithm-Explained
+	url = https://github.com/LLM-Explained/LLM-Algorithm-Explained.git
